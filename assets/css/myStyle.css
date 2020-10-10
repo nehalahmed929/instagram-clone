@@ -36,9 +36,9 @@
     
     .sidebar{
         display:block;
-        left: 64%;
+        padding-left: 30px;
         top: 130px;
-        max-width: 265px;
+        max-width: 295px;
         width: 100%;
     }
  }
